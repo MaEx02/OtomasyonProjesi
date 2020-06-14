@@ -1,0 +1,2 @@
+Yönetici girişi için varsayılan id=1 ve şifre =1
+Kullandığım kütüphaneler de jar dosyası halinde klasörde bulunmaktadır.
